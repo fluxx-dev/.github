@@ -1,7 +1,7 @@
 # .github
 # FLUXX DEV
 
-Building open-source, data-driven software.
+Building open-source, data-driven software and knowledge systems.
 
 We create offline-first tools and knowledge systems that prioritize transparency, long-term maintainability, and community research.
 
